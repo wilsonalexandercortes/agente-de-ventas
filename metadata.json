@@ -1,0 +1,8 @@
+{
+  "name": "agente de ventas agroindustria el Edén",
+  "description": "Agente de ventas autónomo impulsado por inteligencia artificial para gestión de clientes potenciales, negociación automatizada, sincronización con CRM, analíticas en tiempo real y reportes exportables.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
